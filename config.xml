@@ -36,6 +36,7 @@
 <plugin name="cordova-plugin-geolocation" spec="4.0.1"/>
 <plugin name="cordova-plugin-gallery-refresh"/>
 <plugin name="cordova-plugin-mediascanner"/>
+<plugin name="cordova-plugin-androidx-adapter"/>
 <plugin name="cordova-plugin-imagedownloader" spec="https://github.com/Santino-Wu/cordova-plugin-imagedownloader.git"/>
 <plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
